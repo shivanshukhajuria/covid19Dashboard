@@ -11,3 +11,5 @@ Once the data is ready, the dashboard can be built using Dash. Dash allows devel
 The dashboard displays data and statistics related to the COVID-19 pandemic, and allows users to explore and analyze the data through interactive components.
 
 Covid-19 dashboard can be used to track the spread of the virus, monitor the effectiveness of interventions, and inform decision-making at different levels of government and healthcare organizations.
+
+This was developed my me in collaboration with my friend at the very start of the pandemic
